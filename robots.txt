@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://hahgaexof.python-soco.com/sitemap.xml
